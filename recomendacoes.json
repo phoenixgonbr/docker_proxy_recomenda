@@ -1,5 +1,16 @@
 [
   {
+    "id": "30ea40300919b73a",
+    "name": "upsnap",
+    "description": "wake on lan",
+    "observation": "Funciona com nome de qualquer rota, não testado em outras portas",
+    "port": 8090,
+    "path": "/upsnap",
+    "proxyMode": "direct",
+    "status": "tested",
+    "createdAt": "2026-11-01T19:22:50.527Z"
+  },
+  {
     "id": "6a465ff88c6cfb45",
     "name": "vaultwarden",
     "description": "gerenciador de senhas",
