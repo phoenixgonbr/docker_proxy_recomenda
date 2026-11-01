@@ -1,0 +1,9 @@
+# Ignora tudo por padrão
+*
+
+# Permite atravessar diretórios e versionar arquivos JSON
+!*/
+!*.json
+
+# Mantém este arquivo versionável
+!.gitignore

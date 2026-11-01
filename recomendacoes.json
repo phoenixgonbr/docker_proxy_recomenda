@@ -1,0 +1,13 @@
+[
+  {
+    "id": "6a465ff88c6cfb45",
+    "name": "vaultwarden",
+    "description": "gerenciador de senhas",
+    "observation": "Funciona com nome de qualquer rota, não testado em outras portas",
+    "port": 80,
+    "path": "/vaultwarden",
+    "proxyMode": "rewrite",
+    "status": "tested",
+    "createdAt": "2026-11-01T19:03:23.439Z"
+  }
+]
