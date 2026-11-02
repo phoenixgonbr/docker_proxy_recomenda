@@ -1,5 +1,16 @@
 [
   {
+    "id": "ac0a05e77c9f9296",
+    "name": "expenseowl",
+    "description": "gerenciador de financeiro",
+    "observation": "Funcionando com qualquer rota e porta personalizada à sua escolha, mas ícones não funcionando corretamente",
+    "port": 54321,
+    "path": "/expenseowl",
+    "proxyMode": "rewrite",
+    "status": "pending",
+    "createdAt": "2026-11-02T14:36:23.515Z"
+  },
+  {
     "id": "30ea40300919b73a",
     "name": "upsnap",
     "description": "wake on lan",
