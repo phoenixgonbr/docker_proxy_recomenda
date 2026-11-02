@@ -1,0 +1,17 @@
+{
+  "name": "dockproxy-recomendacoes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Editor local das recomendações usadas pelo DockProxy.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "type": "commonjs",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
