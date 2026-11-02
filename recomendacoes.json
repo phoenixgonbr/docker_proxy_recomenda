@@ -1,5 +1,16 @@
 [
   {
+    "id": "74cccc0f527469a8",
+    "name": "pihole",
+    "description": "gerenciador de bloqueio de propagandas",
+    "observation": "Funciona em qualquer rota e porta 53 do DNS não negociável, mas de acesso web pode ser personalizado",
+    "port": 4744,
+    "path": "/pihole",
+    "proxyMode": "direct",
+    "status": "tested",
+    "createdAt": "2026-11-02T15:12:05.515Z"
+  },
+  {
     "id": "ac0a05e77c9f9296",
     "name": "expenseowl",
     "description": "gerenciador de financeiro",
